@@ -1,328 +1,6 @@
 {
   "_help": "SEO text for thipaystubs.com. Edit the text values only — do not rename keys. Limits: title up to 60 characters and description up to 160 are best (hard limits 75 and 200), h1 max 80. Saving publishes automatically in a few minutes; if something is invalid, the update is rejected and the site stays as it was.",
   "pages": {
-    "home": {
-      "url": "/",
-      "title": "Check Stub Maker & Pay Stub Generator | First 2 Free",
-      "description": "Create pay stubs online with our check stub maker. Your first 2 pay stubs are free, with accurate 2026 federal and state taxes for all 50 states and an instant PDF download.",
-      "h1": "Check stub maker & pay stub generator,",
-      "h1Highlight": "done right every pay period.",
-      "content": {
-        "heading": "Check stub maker and pay stub generator for small businesses",
-        "paragraphs": [
-          "Thi Pay Stubs is a check stub maker built for small employers, bookkeepers and self-employed people. Our check stub generator works out federal income tax, Social Security, Medicare and state taxes for all 50 states, so every check stub shows accurate earnings, deductions and net pay.",
-          "Your first 2 pay stubs are free. Generate check stubs online in minutes: fill in the company, employee and pay details, watch the preview update live, and download a professional PDF. Need check stubs every pay period? Business plans give you a monthly allowance at a lower price per stub."
-        ],
-        "faqs": [
-          {
-            "question": "Is the check stub maker free?",
-            "answer": "Your first 2 pay stubs are free per email address. After that, each pay stub has a flat price, with automatic discounts when you create 5 or more at once. You can preview every stub free before you pay."
-          },
-          {
-            "question": "What does the check stub generator calculate?",
-            "answer": "Federal income tax withholding (IRS Publication 15-T), Social Security, Medicare and state income tax for all 50 states, plus state-specific payroll taxes such as California SDI and local taxes where a state has them, using 2026 rates."
-          },
-          {
-            "question": "How long does it take to create check stubs?",
-            "answer": "Most people create a check stub in under five minutes. Taxes are calculated as you type, and the PDF downloads right after checkout."
-          },
-          {
-            "question": "Who can use this pay stub generator?",
-            "answer": "Employers and self-employed people documenting wages they actually paid or earned. Before every order you confirm that you are the employer (or authorized by them) and that the wages are real."
-          }
-        ]
-      }
-    },
-    "createPayStub": {
-      "url": "/create-pay-stub",
-      "title": "Make a Check Stub Online – First 2 Free | Pay Stub Templates",
-      "description": "Make a check stub online with our payroll check stub templates. Your first 2 are free. Accurate earnings, taxes, deductions and net pay, downloaded as a professional PDF.",
-      "h1": "Pay stub generator: create a check stub in minutes",
-      "content": {
-        "heading": "Online paystub generator and check stub creator",
-        "paragraphs": [
-          "Use our paycheck stub generator to create payroll stubs for your employees or yourself. This online paystub generator handles hourly and salary pay, overtime and extra earnings rows, pre-tax and post-tax deductions, and year-to-date totals, then calculates every tax line for you.",
-          "Start with a free pay stub generator trial: your first 2 pay stubs are free. Choose one of 7 payroll check stub templates, add your company logo and accent color, and download your pay stub as a PDF. Every stub can be re-downloaded later from My Orders."
-        ],
-        "faqs": [
-          {
-            "question": "Is this a free pay stub generator?",
-            "answer": "The first 2 pay stubs per email address are free, and the live preview is always free. After that you pay a flat price per stub, with 20% off for 5–9 stubs and 40% off for 10 or more in one order."
-          },
-          {
-            "question": "Can I get my pay stub as a PDF?",
-            "answer": "Yes. Your pay stub downloads as a PDF right after checkout, and you can download it again anytime from My Orders with your Order ID or email."
-          },
-          {
-            "question": "Which payroll check stub templates can I use?",
-            "answer": "Seven designs: Classic, Modern, Bold Banner, Minimal Mono, Elegant Serif, Compact Grid and Soft Card. You can switch templates at any time before you download."
-          },
-          {
-            "question": "Can I create multiple pay stubs at once?",
-            "answer": "Yes. Set the number of stubs and the paycheck stub generator creates consecutive pay periods with dates and year-to-date totals that advance automatically."
-          }
-        ]
-      }
-    },
-    "templates": {
-      "url": "/paystubs-templates",
-      "title": "Paycheck Stub Templates – Free Preview | Payroll Check Templates",
-      "description": "Browse 7 paycheck stub and payroll check templates. Preview any template free, fill it in online with automatic tax calculations, and download your first 2 pay stubs free.",
-      "h1": "Paycheck stub",
-      "h1Highlight": "templates",
-      "content": {
-        "heading": "Editable paycheck stub templates and payroll check templates",
-        "paragraphs": [
-          "Every paycheck stub template on Thi Pay Stubs is editable and fillable online, so there is no blank paycheck template to print and fill in by hand. Pick a payroll check template, enter your details, and it becomes a pay stub template with calculator: taxes, deductions and net pay are filled in automatically.",
-          "Preview any template free and switch designs as often as you like. Your first 2 pay stubs are free, and each finished stub downloads as a PDF."
-        ],
-        "faqs": [
-          {
-            "question": "Are the paycheck stub templates free?",
-            "answer": "You can preview every template free, and your first 2 pay stubs are free. After that, each pay stub has a flat price with bulk discounts."
-          },
-          {
-            "question": "Can I edit a pay stub template?",
-            "answer": "Yes. Every field is editable: company, employee, earnings rows, deductions, logo and accent color. The preview updates as you type."
-          },
-          {
-            "question": "Does the template calculate taxes?",
-            "answer": "Yes. Each template is a fillable pay stub template with calculator built in: federal, FICA and state taxes for all 50 states are calculated for you."
-          }
-        ]
-      }
-    },
-    "canada": {
-      "url": "/create-canada-paystub",
-      "title": "Canada Pay Stub Generator | Canadian Pay Stub Template",
-      "description": "Create Canadian pay stubs online with federal and provincial tax, CPP and EI calculated for you. Choose from 7 Canadian pay stub templates, preview free and download a PDF.",
-      "h1": "Canadian pay stub generator",
-      "content": {
-        "heading": "Canadian pay stub generator",
-        "paragraphs": [
-          "Create a Canadian pay stub online with federal tax, provincial tax, CPP, CPP2 and EI calculated for you. Our pay stub generator for Canada supports Ontario, British Columbia and Alberta, for hourly or salaried employees.",
-          "Choose any of 7 Canadian pay stub templates, add your logo, and see a sample Canadian pay stub update live as you type. When it looks right, download it as a PDF."
-        ],
-        "faqs": [
-          {
-            "question": "What does a Canadian pay stub include?",
-            "answer": "Gross earnings, federal and provincial income tax, CPP (and CPP2 on higher earnings), EI, any other deductions you add, net pay, and year-to-date totals, along with the employer and employee details."
-          },
-          {
-            "question": "Which provinces does the Canada pay stub generator support?",
-            "answer": "Ontario, British Columbia and Alberta, using 2026 federal and provincial rates. More provinces are coming."
-          },
-          {
-            "question": "Can I see a sample Canadian pay stub first?",
-            "answer": "Yes. The live preview shows your Canadian pay stub as you fill it in, free and watermarked until you purchase."
-          }
-        ]
-      }
-    },
-    "w2": {
-      "url": "/w2-form",
-      "title": "W-2 Form Generator | Create a W-2 Online for 2026",
-      "description": "Create W-2 forms online for your employees with our W-2 form generator. Enter wages and withholding, preview the form free, and download it as a PDF.",
-      "h1": "W-2 form generator",
-      "content": {
-        "heading": "Create a W-2 online with our W-2 form generator",
-        "paragraphs": [
-          "Use the W-2 form generator to create a W-2 for each employee. Enter the employer and employee details, wages, tips and the federal, Social Security, Medicare and state withholding, and the W-2 preview fills in each box as you type.",
-          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
-        ],
-        "faqs": [
-          {
-            "question": "How do I make a W-2 for an employee?",
-            "answer": "Enter your business details and EIN, the employee's name, address and SSN, then the year's wages and withholding. Check the preview and download the W-2 as a PDF."
-          },
-          {
-            "question": "Can I file this W-2 with the SSA?",
-            "answer": "No. This is a sample W-2 for your records. Copy A must be filed with the Social Security Administration on the official form or through SSA Business Services Online."
-          },
-          {
-            "question": "Do I also need a W-3?",
-            "answer": "Yes. When you file paper W-2s, the W-3 transmittal summarizes them. You can prepare it with our W-3 form generator."
-          }
-        ]
-      }
-    },
-    "nec1099": {
-      "url": "/1099-nec-form",
-      "title": "1099-NEC Form 2026 | Online 1099-NEC Generator",
-      "description": "Prepare 1099-NEC forms for your contractors online. Enter payer, recipient and compensation details, preview your 2026 1099-NEC free and download a PDF.",
-      "h1": "1099-NEC form generator",
-      "content": {
-        "heading": "Online 1099-NEC generator",
-        "paragraphs": [
-          "Prepare a 1099-NEC form online for independent contractors and other nonemployees. Enter the payer and recipient details and the nonemployee compensation for the year, and the 1099-NEC preview fills in each box for you.",
-          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
-        ],
-        "faqs": [
-          {
-            "question": "What is Form 1099-NEC used for?",
-            "answer": "Form 1099-NEC reports nonemployee compensation, such as payments to independent contractors, for the tax year. Check the IRS instructions for the reporting threshold that applies to your year."
-          },
-          {
-            "question": "What is the difference between 1099-NEC and 1099-MISC?",
-            "answer": "Contractor pay goes on the 1099-NEC. The 1099-MISC covers other payments such as rents, prizes and awards, and certain other income."
-          },
-          {
-            "question": "Can I download the 1099-NEC as a PDF?",
-            "answer": "Yes. Preview it free, then download your 1099-NEC form as a PDF after checkout."
-          }
-        ]
-      }
-    },
-    "misc1099": {
-      "url": "/1099-misc-form",
-      "title": "1099-MISC Form Generator | Create a 1099-MISC Online 2026",
-      "description": "Create 1099-MISC forms online for rents, prizes and other miscellaneous income. Enter payer and recipient details, preview the form free and download a PDF.",
-      "h1": "1099-MISC form generator",
-      "content": {
-        "heading": "Create a 1099-MISC form online",
-        "paragraphs": [
-          "Use our 1099-MISC form generator to prepare a 1099-MISC for rents, prizes and awards, and other miscellaneous income. Enter the payer and recipient information and the amounts, and the form preview updates live.",
-          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
-        ],
-        "faqs": [
-          {
-            "question": "When do I use a 1099-MISC instead of a 1099-NEC?",
-            "answer": "Use the 1099-NEC for payments to contractors for their services, and the 1099-MISC for other payments such as rents, prizes and awards."
-          },
-          {
-            "question": "Is the 1099-MISC generator free?",
-            "answer": "The preview is free. Downloading the finished 1099-MISC PDF is priced the same as a single pay stub."
-          }
-        ]
-      }
-    },
-    "w4": {
-      "url": "/w4-form",
-      "title": "Free W-4 Form Generator | Download W-4 Form PDF Online",
-      "description": "Get a free W-4 form online with our easy W-4 form generator. Fill out, create and download your W-4 form PDF quickly for convenient tax withholding setup.",
-      "h1": "Free W-4 form generator",
-      "content": {
-        "heading": "Free W-4 form generator",
-        "paragraphs": [
-          "Fill out a W-4 form online for free. Our W-4 form generator walks you through each step: personal information and filing status, multiple jobs, dependents, and other adjustments such as extra withholding. Then download your W-4 form PDF.",
-          "The W-4 tells your employer how much federal income tax to withhold from each paycheck. Sign the official form and give it to your employer; it is not sent to the IRS."
-        ],
-        "steps": {
-          "heading": "How to fill out a W-4",
-          "items": [
-            {
-              "title": "Step 1: Personal information",
-              "text": "Enter your name, address, SSN and filing status."
-            },
-            {
-              "title": "Step 2: Multiple jobs or spouse works",
-              "text": "Complete this only if you hold more than one job or file jointly and your spouse also works."
-            },
-            {
-              "title": "Step 3: Claim dependents",
-              "text": "Enter the credit amount for qualifying children and other dependents, if your income qualifies."
-            },
-            {
-              "title": "Step 4: Other adjustments",
-              "text": "Optionally add other income, deductions beyond the standard deduction, or extra withholding per pay period."
-            },
-            {
-              "title": "Step 5: Sign",
-              "text": "Sign and date the form and hand it to your employer."
-            }
-          ]
-        },
-        "faqs": [
-          {
-            "question": "Is the W-4 form really free?",
-            "answer": "Yes. Filling out and downloading a W-4 on Thi Pay Stubs is free, with no account needed."
-          },
-          {
-            "question": "Where do I send my W-4?",
-            "answer": "Give your signed W-4 to your employer. Employees do not send the W-4 to the IRS."
-          },
-          {
-            "question": "Can I use this as a W-4 withholding calculator?",
-            "answer": "The W-4 shows how your choices change your withholding inputs. To see the effect on your take-home pay, try our state paycheck calculators, which use the same federal withholding method."
-          }
-        ]
-      }
-    },
-    "w9": {
-      "url": "/w9-form",
-      "title": "Free W-9 Form Generator | Fillable W-9 Form Online 2026",
-      "description": "Get a free W-9 form online with our easy W-9 form generator. Fill out and download your W-9 form as a PDF quickly for tax reporting purposes.",
-      "h1": "Free W-9 form generator",
-      "content": {
-        "heading": "Free W-9 form generator",
-        "paragraphs": [
-          "Fill out a W-9 form online for free. Enter your name or business name, federal tax classification, address and taxpayer identification number (SSN or EIN), and download your W-9 form as a PDF.",
-          "A W-9 gives a business that pays you the information it needs to issue a 1099. Send it to the person or company that requested it, not to the IRS."
-        ],
-        "steps": {
-          "heading": "How to fill out a W-9",
-          "items": [
-            {
-              "title": "Line 1–2: Name",
-              "text": "Enter your name as shown on your tax return, and your business name if it is different."
-            },
-            {
-              "title": "Line 3: Tax classification",
-              "text": "Choose individual/sole proprietor, C corporation, S corporation, partnership, trust/estate or LLC."
-            },
-            {
-              "title": "Lines 5–6: Address",
-              "text": "Enter the address where you want to receive your information returns."
-            },
-            {
-              "title": "Part I: TIN",
-              "text": "Enter your SSN or EIN."
-            },
-            {
-              "title": "Part II: Certification",
-              "text": "Sign and date the form, then send it to the requester."
-            }
-          ]
-        },
-        "faqs": [
-          {
-            "question": "Is the W-9 form free?",
-            "answer": "Yes. Filling out and downloading a W-9 on Thi Pay Stubs is free, with no account needed."
-          },
-          {
-            "question": "Who needs to fill out a W-9?",
-            "answer": "Independent contractors, freelancers and vendors usually complete a W-9 when a business that will pay them asks for their taxpayer details."
-          },
-          {
-            "question": "Do I send the W-9 to the IRS?",
-            "answer": "No. Give it to the person or business that requested it. They use it to prepare your 1099."
-          }
-        ]
-      }
-    },
-    "w3": {
-      "url": "/w3-form",
-      "title": "W-3 Form Generator | W-3 Transmittal Form Online 2026",
-      "description": "Prepare the W-3 transmittal form online to summarize your employees' W-2 wages and withholding. Preview your 2026 W-3 free and download a PDF.",
-      "h1": "W-3 form generator",
-      "content": {
-        "heading": "W-3 form generator",
-        "paragraphs": [
-          "Prepare the W-3 transmittal form online. The W-3 summarizes the wages and withholding from all of the W-2 forms you issue for the year, and is filed with paper Copy A of your W-2s.",
-          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
-        ],
-        "faqs": [
-          {
-            "question": "What is a W-3 transmittal form?",
-            "answer": "Form W-3 totals the wages, tips and taxes withheld reported on all of your W-2s. It accompanies paper W-2 filings sent to the Social Security Administration."
-          },
-          {
-            "question": "Do I need a W-3 if I file W-2s electronically?",
-            "answer": "No separate W-3 is sent when you e-file W-2s through SSA Business Services Online; the totals are generated during electronic filing."
-          }
-        ]
-      }
-    },
     "f1040": {
       "url": "/1040-form",
       "title": "Form 1040 Generator | IRS Form 1040 Instructions & Tax Guide 2026",
@@ -379,6 +57,141 @@
         ]
       }
     },
+    "w9": {
+      "url": "/w9-form",
+      "title": "Free W-9 Form Generator | Fillable W-9 Form Online 2026",
+      "description": "Get a free W-9 form online with our easy W-9 form generator. Fill out and download your W-9 form as a PDF quickly for tax reporting purposes.",
+      "h1": "Free W-9 form generator",
+      "content": {
+        "heading": "Free W-9 form generator",
+        "paragraphs": [
+          "Fill out a W-9 form online for free. Enter your name or business name, federal tax classification, address and taxpayer identification number (SSN or EIN), and download your W-9 form as a PDF.",
+          "A W-9 gives a business that pays you the information it needs to issue a 1099. Send it to the person or company that requested it, not to the IRS."
+        ],
+        "steps": {
+          "heading": "How to fill out a W-9",
+          "items": [
+            {
+              "title": "Line 1–2: Name",
+              "text": "Enter your name as shown on your tax return, and your business name if it is different."
+            },
+            {
+              "title": "Line 3: Tax classification",
+              "text": "Choose individual/sole proprietor, C corporation, S corporation, partnership, trust/estate or LLC."
+            },
+            {
+              "title": "Lines 5–6: Address",
+              "text": "Enter the address where you want to receive your information returns."
+            },
+            {
+              "title": "Part I: TIN",
+              "text": "Enter your SSN or EIN."
+            },
+            {
+              "title": "Part II: Certification",
+              "text": "Sign and date the form, then send it to the requester."
+            }
+          ]
+        },
+        "faqs": [
+          {
+            "question": "Is the W-9 form free?",
+            "answer": "Yes. Filling out and downloading a W-9 on Thi Pay Stubs is free, with no account needed."
+          },
+          {
+            "question": "Who needs to fill out a W-9?",
+            "answer": "Independent contractors, freelancers and vendors usually complete a W-9 when a business that will pay them asks for their taxpayer details."
+          },
+          {
+            "question": "Do I send the W-9 to the IRS?",
+            "answer": "No. Give it to the person or business that requested it. They use it to prepare your 1099."
+          }
+        ]
+      }
+    },
+    "howItWorks": {
+      "url": "/how-it-works",
+      "title": "How It Works – Make a Pay Stub Online in 5 Steps",
+      "description": "How to make a pay stub online with Thi Pay Stubs: enter your details, preview taxes live, confirm, check out (first 2 free) and download your PDF.",
+      "h1": "How to make a pay stub online in 5 steps"
+    },
+    "misc1099": {
+      "url": "/1099-misc-form",
+      "title": "1099-MISC Form Generator | Create a 1099-MISC Online 2026",
+      "description": "Create 1099-MISC forms online for rents, prizes and other miscellaneous income. Enter payer and recipient details, preview the form free and download a PDF.",
+      "h1": "1099-MISC form generator",
+      "content": {
+        "heading": "Create a 1099-MISC form online",
+        "paragraphs": [
+          "Use our 1099-MISC form generator to prepare a 1099-MISC for rents, prizes and awards, and other miscellaneous income. Enter the payer and recipient information and the amounts, and the form preview updates live.",
+          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "When do I use a 1099-MISC instead of a 1099-NEC?",
+            "answer": "Use the 1099-NEC for payments to contractors for their services, and the 1099-MISC for other payments such as rents, prizes and awards."
+          },
+          {
+            "question": "Is the 1099-MISC generator free?",
+            "answer": "The preview is free. Downloading the finished 1099-MISC PDF is priced the same as a single pay stub."
+          }
+        ]
+      }
+    },
+    "nec1099": {
+      "url": "/1099-nec-form",
+      "title": "1099-NEC Form 2026 | Online 1099-NEC Generator",
+      "description": "Prepare 1099-NEC forms for your contractors online. Enter payer, recipient and compensation details, preview your 2026 1099-NEC free and download a PDF.",
+      "h1": "1099-NEC form generator",
+      "content": {
+        "heading": "Online 1099-NEC generator",
+        "paragraphs": [
+          "Prepare a 1099-NEC form online for independent contractors and other nonemployees. Enter the payer and recipient details and the nonemployee compensation for the year, and the 1099-NEC preview fills in each box for you.",
+          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Form 1099-NEC used for?",
+            "answer": "Form 1099-NEC reports nonemployee compensation, such as payments to independent contractors, for the tax year. Check the IRS instructions for the reporting threshold that applies to your year."
+          },
+          {
+            "question": "What is the difference between 1099-NEC and 1099-MISC?",
+            "answer": "Contractor pay goes on the 1099-NEC. The 1099-MISC covers other payments such as rents, prizes and awards, and certain other income."
+          },
+          {
+            "question": "Can I download the 1099-NEC as a PDF?",
+            "answer": "Yes. Preview it free, then download your 1099-NEC form as a PDF after checkout."
+          }
+        ]
+      }
+    },
+    "canada": {
+      "url": "/create-canada-paystub",
+      "title": "Canada Pay Stub Generator | Canadian Pay Stub Template",
+      "description": "Create Canadian pay stubs online with federal and provincial tax, CPP and EI calculated for you. Choose from 7 Canadian pay stub templates, preview free and download a PDF.",
+      "h1": "Canadian pay stub generator",
+      "content": {
+        "heading": "Canadian pay stub generator",
+        "paragraphs": [
+          "Create a Canadian pay stub online with federal tax, provincial tax, CPP, CPP2 and EI calculated for you. Our pay stub generator for Canada supports Ontario, British Columbia and Alberta, for hourly or salaried employees.",
+          "Choose any of 7 Canadian pay stub templates, add your logo, and see a sample Canadian pay stub update live as you type. When it looks right, download it as a PDF."
+        ],
+        "faqs": [
+          {
+            "question": "What does a Canadian pay stub include?",
+            "answer": "Gross earnings, federal and provincial income tax, CPP (and CPP2 on higher earnings), EI, any other deductions you add, net pay, and year-to-date totals, along with the employer and employee details."
+          },
+          {
+            "question": "Which provinces does the Canada pay stub generator support?",
+            "answer": "Ontario, British Columbia and Alberta, using 2026 federal and provincial rates. More provinces are coming."
+          },
+          {
+            "question": "Can I see a sample Canadian pay stub first?",
+            "answer": "Yes. The live preview shows your Canadian pay stub as you fill it in, free and watermarked until you purchase."
+          }
+        ]
+      }
+    },
     "f941": {
       "url": "/941-form",
       "title": "Form 941 Generator | IRS Form 941 Online for 2026",
@@ -402,11 +215,198 @@
         ]
       }
     },
-    "howItWorks": {
-      "url": "/how-it-works",
-      "title": "How It Works – Make a Pay Stub Online in 5 Steps",
-      "description": "How to make a pay stub online with Thi Pay Stubs: enter your details, preview taxes live, confirm, check out (first 2 free) and download your PDF.",
-      "h1": "How to make a pay stub online in 5 steps"
+    "templates": {
+      "url": "/paystubs-templates",
+      "title": "Paycheck Stub Templates – Free Preview | Payroll Check Templates",
+      "description": "Browse 7 paycheck stub and payroll check templates. Preview any template free, fill it in online with automatic tax calculations, and download your first 2 pay stubs free.",
+      "h1": "Paycheck stub",
+      "h1Highlight": "templates",
+      "content": {
+        "heading": "Editable paycheck stub templates and payroll check templates",
+        "paragraphs": [
+          "Every paycheck stub template on Thi Pay Stubs is editable and fillable online, so there is no blank paycheck template to print and fill in by hand. Pick a payroll check template, enter your details, and it becomes a pay stub template with calculator: taxes, deductions and net pay are filled in automatically.",
+          "Preview any template free and switch designs as often as you like. Your first 2 pay stubs are free, and each finished stub downloads as a PDF."
+        ],
+        "faqs": [
+          {
+            "question": "Are the paycheck stub templates free?",
+            "answer": "You can preview every template free, and your first 2 pay stubs are free. After that, each pay stub has a flat price with bulk discounts."
+          },
+          {
+            "question": "Can I edit a pay stub template?",
+            "answer": "Yes. Every field is editable: company, employee, earnings rows, deductions, logo and accent color. The preview updates as you type."
+          },
+          {
+            "question": "Does the template calculate taxes?",
+            "answer": "Yes. Each template is a fillable pay stub template with calculator built in: federal, FICA and state taxes for all 50 states are calculated for you."
+          }
+        ]
+      }
+    },
+    "createPayStub": {
+      "url": "/create-pay-stub",
+      "title": "Make a Check Stub Online – First 2 Free | Pay Stub Templates",
+      "description": "Make a check stub online with our payroll check stub templates. Your first 2 are free. Accurate earnings, taxes, deductions and net pay, downloaded as a professional PDF.",
+      "h1": "Pay stub generator: create a check stub in minutes",
+      "content": {
+        "heading": "Online paystub generator and check stub creator",
+        "paragraphs": [
+          "Use our paycheck stub generator to create payroll stubs for your employees or yourself. This online paystub generator handles hourly and salary pay, overtime and extra earnings rows, pre-tax and post-tax deductions, and year-to-date totals, then calculates every tax line for you.",
+          "Start with a free pay stub generator trial: your first 2 pay stubs are free. Choose one of 7 payroll check stub templates, add your company logo and accent color, and download your pay stub as a PDF. Every stub can be re-downloaded later from My Orders."
+        ],
+        "faqs": [
+          {
+            "question": "Is this a free pay stub generator?",
+            "answer": "The first 2 pay stubs per email address are free, and the live preview is always free. After that you pay a flat price per stub, with 20% off for 5–9 stubs and 40% off for 10 or more in one order."
+          },
+          {
+            "question": "Can I get my pay stub as a PDF?",
+            "answer": "Yes. Your pay stub downloads as a PDF right after checkout, and you can download it again anytime from My Orders with your Order ID or email."
+          },
+          {
+            "question": "Which payroll check stub templates can I use?",
+            "answer": "Seven designs: Classic, Modern, Bold Banner, Minimal Mono, Elegant Serif, Compact Grid and Soft Card. You can switch templates at any time before you download."
+          },
+          {
+            "question": "Can I create multiple pay stubs at once?",
+            "answer": "Yes. Set the number of stubs and the paycheck stub generator creates consecutive pay periods with dates and year-to-date totals that advance automatically."
+          }
+        ]
+      }
+    },
+    "w2": {
+      "url": "/w2-form",
+      "title": "W-2 Form Generator | Create a W-2 Online for 2026",
+      "description": "Create W-2 forms online for your employees with our W-2 form generator. Enter wages and withholding, preview the form free, and download it as a PDF.",
+      "h1": "W-2 form generator",
+      "content": {
+        "heading": "Create a W-2 online with our W-2 form generator",
+        "paragraphs": [
+          "Use the W-2 form generator to create a W-2 for each employee. Enter the employer and employee details, wages, tips and the federal, Social Security, Medicare and state withholding, and the W-2 preview fills in each box as you type.",
+          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "How do I make a W-2 for an employee?",
+            "answer": "Enter your business details and EIN, the employee's name, address and SSN, then the year's wages and withholding. Check the preview and download the W-2 as a PDF."
+          },
+          {
+            "question": "Can I file this W-2 with the SSA?",
+            "answer": "No. This is a sample W-2 for your records. Copy A must be filed with the Social Security Administration on the official form or through SSA Business Services Online."
+          },
+          {
+            "question": "Do I also need a W-3?",
+            "answer": "Yes. When you file paper W-2s, the W-3 transmittal summarizes them. You can prepare it with our W-3 form generator."
+          }
+        ]
+      }
+    },
+    "w3": {
+      "url": "/w3-form",
+      "title": "W-3 Form Generator | W-3 Transmittal Form Online 2026",
+      "description": "Prepare the W-3 transmittal form online to summarize your employees' W-2 wages and withholding. Preview your 2026 W-3 free and download a PDF.",
+      "h1": "W-3 form generator",
+      "content": {
+        "heading": "W-3 form generator",
+        "paragraphs": [
+          "Prepare the W-3 transmittal form online. The W-3 summarizes the wages and withholding from all of the W-2 forms you issue for the year, and is filed with paper Copy A of your W-2s.",
+          "Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS or SSA using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is a W-3 transmittal form?",
+            "answer": "Form W-3 totals the wages, tips and taxes withheld reported on all of your W-2s. It accompanies paper W-2 filings sent to the Social Security Administration."
+          },
+          {
+            "question": "Do I need a W-3 if I file W-2s electronically?",
+            "answer": "No separate W-3 is sent when you e-file W-2s through SSA Business Services Online; the totals are generated during electronic filing."
+          }
+        ]
+      }
+    },
+    "w4": {
+      "url": "/w4-form",
+      "title": "Free W-4 Form Generator | Download W-4 Form PDF Online",
+      "description": "Get a free W-4 form online with our easy W-4 form generator. Fill out, create and download your W-4 form PDF quickly ",
+      "h1": "Free W-4 form generator",
+      "content": {
+        "heading": "Free W-4 form generator",
+        "paragraphs": [
+          "Fill out a W-4 form online for free. Our W-4 form generator walks you through each step: personal information and filing status, multiple jobs, dependents, and other adjustments such as extra withholding. Then download your W-4 form PDF.",
+          "The W-4 tells your employer how much federal income tax to withhold from each paycheck. Sign the official form and give it to your employer; it is not sent to the IRS."
+        ],
+        "steps": {
+          "heading": "How to fill out a W-4",
+          "items": [
+            {
+              "title": "Step 1: Personal information",
+              "text": "Enter your name, address, SSN and filing status."
+            },
+            {
+              "title": "Step 2: Multiple jobs or spouse works",
+              "text": "Complete this only if you hold more than one job or file jointly and your spouse also works."
+            },
+            {
+              "title": "Step 3: Claim dependents",
+              "text": "Enter the credit amount for qualifying children and other dependents, if your income qualifies."
+            },
+            {
+              "title": "Step 4: Other adjustments",
+              "text": "Optionally add other income, deductions beyond the standard deduction, or extra withholding per pay period."
+            },
+            {
+              "title": "Step 5: Sign",
+              "text": "Sign and date the form and hand it to your employer."
+            }
+          ]
+        },
+        "faqs": [
+          {
+            "question": "Is the W-4 form really free?",
+            "answer": "Yes. Filling out and downloading a W-4 on Thi Pay Stubs is free, with no account needed."
+          },
+          {
+            "question": "Where do I send my W-4?",
+            "answer": "Give your signed W-4 to your employer. Employees do not send the W-4 to the IRS."
+          },
+          {
+            "question": "Can I use this as a W-4 withholding calculator?",
+            "answer": "The W-4 shows how your choices change your withholding inputs. To see the effect on your take-home pay, try our state paycheck calculators, which use the same federal withholding method."
+          }
+        ]
+      }
+    },
+    "home": {
+      "url": "/",
+      "title": "Check Stub Maker & Pay Stub Generator | First 2 Free",
+      "description": "Create pay stubs online with our check stub maker. Your first 2 pay stubs are free, with accurate 2026 federal and state taxes for all 50 states and an instant PDF download.",
+      "h1": "Check stub maker & pay stub generator,",
+      "h1Highlight": "done right every pay period.",
+      "content": {
+        "heading": "Check stub maker and pay stub generator for small businesses",
+        "paragraphs": [
+          "Thi Pay Stubs is a check stub maker built for small employers, bookkeepers and self-employed people. Our check stub generator works out federal income tax, Social Security, Medicare and state taxes for all 50 states, so every check stub shows accurate earnings, deductions and net pay.",
+          "Your first 2 pay stubs are free. Generate check stubs online in minutes: fill in the company, employee and pay details, watch the preview update live, and download a professional PDF. Need check stubs every pay period? Business plans give you a monthly allowance at a lower price per stub."
+        ],
+        "faqs": [
+          {
+            "question": "Is the check stub maker free?",
+            "answer": "Your first 2 pay stubs are free per email address. After that, each pay stub has a flat price, with automatic discounts when you create 5 or more at once. You can preview every stub free before you pay."
+          },
+          {
+            "question": "What does the check stub generator calculate?",
+            "answer": "Federal income tax withholding (IRS Publication 15-T), Social Security, Medicare and state income tax for all 50 states, plus state-specific payroll taxes such as California SDI and local taxes where a state has them, using 2026 rates."
+          },
+          {
+            "question": "How long does it take to create check stubs?",
+            "answer": "Most people create a check stub in under five minutes. Taxes are calculated as you type, and the PDF downloads right after checkout."
+          },
+          {
+            "question": "Who can use this pay stub generator?",
+            "answer": "Employers and self-employed people documenting wages they actually paid or earned. Before every order you confirm that you are the employer (or authorized by them) and that the wages are real."
+          }
+        ]
+      }
     }
   },
   "statePages": {
