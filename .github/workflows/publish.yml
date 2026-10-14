@@ -1,0 +1,25 @@
+# Runs when seo.json is saved (from GitHub or from https://thipaystubs.com/admin).
+# 1. Checks the file is valid JSON.  2. Asks Render to rebuild the site, which downloads this
+# seo.json, runs the full SEO check, and only goes live if everything passes.
+name: Publish SEO text
+
+on:
+  push:
+    branches: [main]
+    paths: [seo.json]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check seo.json is valid JSON
+        run: node -e "JSON.parse(require('fs').readFileSync('seo.json','utf8')); console.log('seo.json is valid JSON')"
+      - name: Rebuild the website
+        env:
+          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$RENDER_DEPLOY_HOOK" ]; then echo "RENDER_DEPLOY_HOOK secret is not set"; exit 1; fi
+          curl -fsS -X POST "$RENDER_DEPLOY_HOOK" > /dev/null
+          echo "Rebuild started — changes are live in about 3–5 minutes if the SEO check passes."
