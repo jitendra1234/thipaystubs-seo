@@ -1,8 +1,19 @@
-# Thi Pay Stubs — SEO text
+# Thi Pay Stubs — SEO text and blog
 
 This repo holds the SEO text for **thipaystubs.com**: page titles, meta descriptions, H1 headings,
 the SEO section and FAQs at the bottom of each page, and the template for the 50 state paycheck
 calculator pages.
+
+## Blog
+
+Blog posts live in `blog/` (one Markdown file per article) and images in `blog-media/`.
+In **/admin → Blog posts** you can write a new post, upload a cover image, and publish.
+
+- The file name becomes the URL: `how-to-make-a-pay-stub.md` → thipaystubs.com/blog/how-to-make-a-pay-stub
+- Title 10–100 characters, description 50–200, article at least 300 characters.
+- Tick **Draft** to save a post without showing it on the site.
+- Link to our pages with paths like `/create-pay-stub` or `/texas-paycheck-calculator`.
+- No HTML scripts, iframes or forms — the same blocked words apply as for SEO text.
 
 ## How to edit
 
