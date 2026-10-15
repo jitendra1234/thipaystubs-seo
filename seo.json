@@ -109,6 +109,12 @@
         ]
       }
     },
+    "blog": {
+      "url": "/blog",
+      "title": "Pay Stub & Payroll Blog | Guides for Small Employerss",
+      "description": "Plain-English guides to pay stubs, payroll taxes, W-2s, 1099s and other tax forms for small employers and self-employed people.",
+      "h1": "Pay stub and payroll guides"
+    },
     "howItWorks": {
       "url": "/how-it-works",
       "title": "How It Works – Make a Pay Stub Online in 5 Steps",
@@ -407,12 +413,6 @@
           }
         ]
       }
-    },
-    "blog": {
-      "url": "/blog",
-      "title": "Pay Stub & Payroll Blog | Guides for Small Employers",
-      "description": "Plain-English guides to pay stubs, payroll taxes, W-2s, 1099s and other tax forms for small employers and self-employed people.",
-      "h1": "Pay stub and payroll guides"
     }
   },
   "statePages": {
