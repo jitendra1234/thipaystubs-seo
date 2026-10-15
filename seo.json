@@ -113,13 +113,15 @@
       "url": "/blog",
       "title": "Pay Stub & Payroll Blog | Guides for Small Employerss",
       "description": "Plain-English guides to pay stubs, payroll taxes, W-2s, 1099s and other tax forms for small employers and self-employed people.",
-      "h1": "Pay stub and payroll guides"
+      "h1": "Pay stub and payroll guides",
+      "intro": "Plain-English guides to pay stubs, payroll taxes and tax forms for small employers."
     },
     "howItWorks": {
       "url": "/how-it-works",
       "title": "How It Works – Make a Pay Stub Online in 5 Steps",
       "description": "How to make a pay stub online with Thi Pay Stubs: enter your details, preview taxes live, confirm, check out (first 2 free) and download your PDF.",
-      "h1": "How to make a pay stub online in 5 steps"
+      "h1": "How to make a pay stub online in 5 steps",
+      "intro": "From blank form to a finished PDF in a few minutes, with taxes calculated for you."
     },
     "misc1099": {
       "url": "/1099-misc-form",
