@@ -22,7 +22,7 @@ In **/admin → Blog posts** you can write a new post, upload a cover image, and
 
 **Or on GitHub:** open `seo.json`, click the pencil (Edit), change the text, and **Commit changes**.
 
-The website rebuilds automatically and your change is live in about **3–5 minutes**.
+The website rebuilds automatically and your change is live in about **5 minutes**.
 
 ## Rules
 

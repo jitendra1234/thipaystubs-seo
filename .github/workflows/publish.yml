@@ -1,12 +1,13 @@
-# Runs when seo.json is saved (from GitHub or from https://thipaystubs.com/admin).
-# 1. Checks the file is valid JSON.  2. Asks Render to rebuild the site, which downloads this
-# seo.json, runs the full SEO check, and only goes live if everything passes.
+# Runs when SEO text or blog posts are saved (from GitHub or from https://thipaystubs.com/admin).
+# 1. Checks seo.json is valid JSON.
+# 2. Starts the website deploy (paystub-generator's "Deploy to AWS" workflow), which downloads
+#    this repo, runs the full SEO + blog checks, and only goes live if everything passes.
 name: Publish SEO text
 
 on:
   push:
     branches: [main]
-    paths: [seo.json]
+    paths: [seo.json, 'blog/**', 'blog-media/**']
   workflow_dispatch:
 
 jobs:
@@ -14,12 +15,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Check seo.json is valid JSON
         run: node -e "JSON.parse(require('fs').readFileSync('seo.json','utf8')); console.log('seo.json is valid JSON')"
-      - name: Rebuild the website
+
+      - name: Deploy the website (AWS)
+        env:
+          TOKEN: ${{ secrets.MAIN_REPO_DEPLOY_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "MAIN_REPO_DEPLOY_TOKEN secret is not set"; exit 1; fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/jitendra1234/paystub-generator/actions/workflows/deploy-aws.yml/dispatches \
+            -d '{"ref":"main"}'
+          echo "Deploy started — changes are live in about 5 minutes if the checks pass."
+
+      # Kept only until thipaystubs.com has fully moved off Render; skipped once the secret is removed.
+      - name: Rebuild on Render (temporary)
         env:
           RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
         run: |
-          if [ -z "$RENDER_DEPLOY_HOOK" ]; then echo "RENDER_DEPLOY_HOOK secret is not set"; exit 1; fi
+          if [ -z "$RENDER_DEPLOY_HOOK" ]; then echo "No Render hook — skipping"; exit 0; fi
           curl -fsS -X POST "$RENDER_DEPLOY_HOOK" > /dev/null
-          echo "Rebuild started — changes are live in about 3–5 minutes if the SEO check passes."
+          echo "Render rebuild started."
