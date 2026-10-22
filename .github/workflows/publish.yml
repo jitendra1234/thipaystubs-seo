@@ -32,11 +32,3 @@ jobs:
             -d '{"ref":"main"}'
           echo "Deploy started — changes are live in about 5 minutes if the checks pass."
 
-      # Kept only until thipaystubs.com has fully moved off Render; skipped once the secret is removed.
-      - name: Rebuild on Render (temporary)
-        env:
-          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
-        run: |
-          if [ -z "$RENDER_DEPLOY_HOOK" ]; then echo "No Render hook — skipping"; exit 0; fi
-          curl -fsS -X POST "$RENDER_DEPLOY_HOOK" > /dev/null
-          echo "Render rebuild started."
