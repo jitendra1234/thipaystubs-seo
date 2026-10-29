@@ -415,6 +415,141 @@
           }
         ]
       }
+    },
+    "int1099": {
+      "url": "/1099-int-form",
+      "title": "1099-INT Form Generator | Free 1099-INT Online 2026",
+      "description": "Create a 1099-INT for interest income online, free. Enter payer and recipient details and interest amounts, preview the form live and download a PDF.",
+      "h1": "Free 1099-INT form generator",
+      "content": {
+        "heading": "Create a 1099-INT form online",
+        "paragraphs": [
+          "Form 1099-INT reports interest paid during the year, such as bank, credit union or loan interest. Use our free 1099-INT form generator to enter the payer and recipient, interest income, early withdrawal penalties, tax-exempt interest and any tax withheld, and watch the form update as you type.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Form 1099-INT used for?",
+            "answer": "Banks, credit unions and other payers use Form 1099-INT to report interest income paid to a person, generally when the interest is $10 or more for the year. It also reports early withdrawal penalties, tax-exempt interest and any federal tax withheld."
+          },
+          {
+            "question": "Is the 1099-INT generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1099-INT PDF for free, with no account needed."
+          },
+          {
+            "question": "When is Form 1099-INT due?",
+            "answer": "Copy B generally goes to the recipient by January 31. The IRS copy is generally due by February 28 if filed on paper, or March 31 if filed electronically."
+          }
+        ]
+      }
+    },
+    "div1099": {
+      "url": "/1099-div-form",
+      "title": "1099-DIV Form Generator | Free 1099-DIV Online 2026",
+      "description": "Create a 1099-DIV for dividends and distributions online, free. Enter ordinary and qualified dividends and capital gains, preview it live and download a PDF.",
+      "h1": "Free 1099-DIV form generator",
+      "content": {
+        "heading": "Create a 1099-DIV form online",
+        "paragraphs": [
+          "Form 1099-DIV reports dividends and distributions paid on stock, mutual funds and other investments. Our free 1099-DIV form generator covers ordinary and qualified dividends, capital gain distributions, Section 199A dividends, foreign tax paid, exempt-interest dividends and state withholding.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Form 1099-DIV used for?",
+            "answer": "Companies and funds use Form 1099-DIV to report dividends and other distributions paid to a shareholder, generally when they total $10 or more for the year."
+          },
+          {
+            "question": "What is the difference between ordinary and qualified dividends?",
+            "answer": "Box 1a shows all ordinary dividends. Box 1b shows the part of that amount that meets the rules for qualified dividends, which are usually taxed at the lower long-term capital gains rates."
+          },
+          {
+            "question": "Is the 1099-DIV generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1099-DIV PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "r1099": {
+      "url": "/1099-r-form",
+      "title": "1099-R Form Generator | Free 1099-R Online 2026",
+      "description": "Create a 1099-R for pension, annuity, IRA and retirement plan distributions online, free. Preview it live, add distribution codes and download a PDF.",
+      "h1": "Free 1099-R form generator",
+      "content": {
+        "heading": "Create a 1099-R form online",
+        "paragraphs": [
+          "Form 1099-R reports distributions from pensions, annuities, retirement and profit-sharing plans, IRAs and insurance contracts. Enter the gross distribution, taxable amount, federal and state withholding and the distribution code, and our free 1099-R form generator lays it out box by box.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Form 1099-R used for?",
+            "answer": "Plan administrators, insurers and IRA custodians use Form 1099-R to report distributions of $10 or more from pensions, annuities, retirement plans, IRAs and insurance contracts."
+          },
+          {
+            "question": "What does the distribution code in box 7 mean?",
+            "answer": "The code tells the IRS what kind of distribution it was. For example, code 7 is a normal distribution, code 1 is an early distribution with no known exception, and code G is a direct rollover. See the IRS instructions for Form 1099-R for the full list."
+          },
+          {
+            "question": "Is the 1099-R generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1099-R PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "f940": {
+      "url": "/940-form",
+      "title": "Form 940 Generator | Free FUTA Tax Return Online 2026",
+      "description": "Prepare Form 940, the annual FUTA tax return, online for free. Taxable FUTA wages, the 0.6% FUTA tax and balance due are calculated for you. Download a PDF.",
+      "h1": "Free Form 940 generator",
+      "content": {
+        "heading": "Prepare Form 940 (FUTA) online",
+        "paragraphs": [
+          "Form 940 is the employer's annual Federal Unemployment (FUTA) tax return. Enter total payments to employees, exempt payments and wages over the $7,000 FUTA wage base, and our free Form 940 generator works out taxable FUTA wages, the FUTA tax, adjustments and your balance due or overpayment.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who has to file Form 940?",
+            "answer": "Most employers file Form 940 if they paid wages of $1,500 or more in any calendar quarter, or had at least one employee for some part of a day in 20 or more different weeks during the year. Different rules apply to household and agricultural employers."
+          },
+          {
+            "question": "How is FUTA tax calculated?",
+            "answer": "FUTA tax is 6.0% of the first $7,000 paid to each employee in the year. Employers who pay state unemployment tax on time usually get a credit of up to 5.4%, so the net rate is typically 0.6%, or up to $42 per employee."
+          },
+          {
+            "question": "When is Form 940 due?",
+            "answer": "Form 940 is generally due by January 31 for the previous year. If you deposited all of your FUTA tax on time, you have until February 10."
+          }
+        ]
+      }
+    },
+    "w7": {
+      "url": "/w7-form",
+      "title": "Form W-7 Generator | Free ITIN Application Online 2026",
+      "description": "Fill in Form W-7, the IRS application for an ITIN, online for free. Preview every line as you type and download a PDF to check before you apply.",
+      "h1": "Free Form W-7 (ITIN application) generator",
+      "content": {
+        "heading": "Fill in Form W-7 online",
+        "paragraphs": [
+          "Form W-7 is the application for an IRS Individual Taxpayer Identification Number (ITIN), used by people who need a U.S. tax ID but are not eligible for a Social Security number. Our free Form W-7 generator walks through each line, from the reason you are applying to your identification documents, so you can check your answers before completing the official form.",
+          "This form is free. It is a sample for preparing your application; the IRS only accepts the official Form W-7, usually submitted with a federal tax return, through an IRS Acceptance Agent or at an IRS Taxpayer Assistance Center."
+        ],
+        "faqs": [
+          {
+            "question": "Who needs to file Form W-7?",
+            "answer": "People who must file a U.S. tax return or are listed on one, such as nonresident aliens, resident aliens, and spouses or dependents of U.S. citizens, but who cannot get a Social Security number."
+          },
+          {
+            "question": "Does it cost anything to apply for an ITIN?",
+            "answer": "No. The IRS does not charge a fee for an ITIN, and our Form W-7 generator is free as well."
+          },
+          {
+            "question": "Can I submit this W-7 to the IRS?",
+            "answer": "No. Use it to prepare and check your details, then complete and submit the official IRS Form W-7 with the required identity documents."
+          }
+        ]
+      }
     }
   },
   "statePages": {
