@@ -3,8 +3,8 @@
   "pages": {
     "f1040": {
       "url": "/1040-form",
-      "title": "Form 1040 Generator | IRS Form 1040 Instructions & Tax Guide 2026",
-      "description": "Fill out IRS Form 1040 online with clear Form 1040 instructions. Learn how to complete your tax return, report income and payments, and preview your 2026 Form 1040 free.",
+      "title": "Form 1040 Generator & Instructions | 2026 Tax Guide",
+      "description": "Fill out IRS Form 1040 online with clear instructions. Report income and payments, and preview your 2026 Form 1040 free before you file.",
       "h1": "Form 1040 generator",
       "content": {
         "heading": "IRS Form 1040 instructions and tax guide",
@@ -176,7 +176,7 @@
     "canada": {
       "url": "/create-canada-paystub",
       "title": "Canada Pay Stub Generator | Canadian Pay Stub Template",
-      "description": "Create Canadian pay stubs online with federal and provincial tax, CPP and EI calculated for you. Choose from 7 Canadian pay stub templates, preview free and download a PDF.",
+      "description": "Create Canadian pay stubs online with federal and provincial tax, CPP and EI calculated for you. 7 templates, free preview, PDF download.",
       "h1": "Canadian pay stub generator",
       "content": {
         "heading": "Canadian pay stub generator",
@@ -203,7 +203,7 @@
     "f941": {
       "url": "/941-form",
       "title": "Form 941 Generator | IRS Form 941 Online for 2026",
-      "description": "Prepare IRS Form 941, your quarterly federal payroll tax return, online. Enter employee wages and withholding, preview your 2026 Form 941 free and download a PDF.",
+      "description": "Prepare IRS Form 941, the quarterly federal payroll tax return, online. Enter wages and withholding, preview your 2026 Form 941 free and download a PDF.",
       "h1": "Form 941 generator",
       "content": {
         "heading": "IRS Form 941 online",
@@ -225,8 +225,8 @@
     },
     "templates": {
       "url": "/paystubs-templates",
-      "title": "Paycheck Stub Templates – Free Preview | Payroll Check Templates",
-      "description": "Browse 7 paycheck stub and payroll check templates. Preview any template free, fill it in online with automatic tax calculations, and download your first 2 pay stubs free.",
+      "title": "Paycheck Stub & Payroll Check Templates | Free Preview",
+      "description": "Browse 7 paycheck stub and payroll check templates. Preview free, fill in online with automatic taxes, and get your first 2 pay stubs free.",
       "h1": "Paycheck stub",
       "h1Highlight": "templates",
       "content": {
@@ -254,7 +254,7 @@
     "createPayStub": {
       "url": "/create-pay-stub",
       "title": "Make a Check Stub Online – First 2 Free | Pay Stub Templates",
-      "description": "Make a check stub online with our payroll check stub templates. Your first 2 are free. Accurate earnings, taxes, deductions and net pay, downloaded as a professional PDF.",
+      "description": "Make a check stub online in minutes. First 2 free, then $1.99 each. Accurate earnings, taxes, deductions and net pay in a professional PDF.",
       "h1": "Pay stub generator: create a check stub in minutes",
       "content": {
         "heading": "Online paystub generator and check stub creator",
@@ -387,7 +387,7 @@
     "home": {
       "url": "/",
       "title": "Check Stub Maker & Pay Stub Generator | First 2 Free",
-      "description": "Create pay stubs online with our check stub maker. Your first 2 pay stubs are free, with accurate 2026 federal and state taxes for all 50 states and an instant PDF download.",
+      "description": "Check stub maker for 2026: first 2 pay stubs free, then $1.99. Accurate federal and state taxes for all 50 states and an instant PDF download.",
       "h1": "Check stub maker & pay stub generator,",
       "h1Highlight": "done right every pay period.",
       "content": {
@@ -554,9 +554,9 @@
   },
   "statePages": {
     "_help": "{state} is replaced with the state name, e.g. \"Texas\".",
-    "title": "{state} Paycheck Calculator 2026 | Take-Home Pay & Pay Stub",
-    "descriptionWithIncomeTax": "Free {state} paycheck calculator for 2026: estimate take-home pay after federal, Social Security, Medicare and {state} income tax, then turn it into a pay stub PDF.",
-    "descriptionNoIncomeTax": "Free {state} paycheck calculator for 2026: estimate take-home pay after federal, Social Security, Medicare taxes ({state} has no state income tax), then turn it into a pay stub PDF.",
+    "title": "{state} Paycheck Calculator 2026 | Take-Home Pay",
+    "descriptionWithIncomeTax": "Free {state} paycheck calculator 2026: take-home pay after federal, FICA and {state} income tax, then turn it into a pay stub PDF.",
+    "descriptionNoIncomeTax": "Free {state} paycheck calculator 2026: take-home pay after federal and FICA taxes ({state} has no income tax), then make a pay stub PDF.",
     "h1": "{state} Paycheck Calculator"
   }
 }
