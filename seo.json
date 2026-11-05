@@ -233,12 +233,13 @@
         "heading": "Editable paycheck stub templates and payroll check templates",
         "paragraphs": [
           "Every paycheck stub template on Thi Pay Stubs is editable and fillable online, so there is no blank paycheck template to print and fill in by hand. Pick a payroll check template, enter your details, and it becomes a pay stub template with calculator: taxes, deductions and net pay are filled in automatically.",
-          "Preview any template free and switch designs as often as you like. Your first 2 pay stubs are free, and each finished stub downloads as a PDF."
+          "Each check stub template follows the standard check stub format employers and bookkeepers expect: employer and employee details, the pay period, hours and rates, every tax and deduction on its own line, net pay and year-to-date totals. Choose a classic layout, a modern design or a compact one-page check stub layout.",
+          "Preview any template free and switch designs as often as you like. Your first 2 pay stubs are free, then each one is $1.99, and every finished stub downloads as a printable PDF you can email to an employee or keep with your payroll records."
         ],
         "faqs": [
           {
             "question": "Are the paycheck stub templates free?",
-            "answer": "You can preview every template free, and your first 2 pay stubs are free. After that, each pay stub has a flat price with bulk discounts."
+            "answer": "You can preview every template free, and your first 2 pay stubs are free. After that, each pay stub is $1.99, with bulk discounts for 5 or more."
           },
           {
             "question": "Can I edit a pay stub template?",
@@ -247,6 +248,10 @@
           {
             "question": "Does the template calculate taxes?",
             "answer": "Yes. Each template is a fillable pay stub template with calculator built in: federal, FICA and state taxes for all 50 states are calculated for you."
+          },
+          {
+            "question": "Can I download and print the pay stub template?",
+            "answer": "Yes. Each finished pay stub downloads as a printable PDF on US Letter paper, ready to print, email or save."
           }
         ]
       }
