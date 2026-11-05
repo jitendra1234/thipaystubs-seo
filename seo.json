@@ -554,9 +554,9 @@
   },
   "statePages": {
     "_help": "{state} is replaced with the state name, e.g. \"Texas\".",
-    "title": "{state} Paycheck Calculator 2026 | Take-Home Pay",
-    "descriptionWithIncomeTax": "Free {state} paycheck calculator 2026: take-home pay after federal, FICA and {state} income tax, then turn it into a pay stub PDF.",
-    "descriptionNoIncomeTax": "Free {state} paycheck calculator 2026: take-home pay after federal and FICA taxes ({state} has no income tax), then make a pay stub PDF.",
-    "h1": "{state} Paycheck Calculator"
+    "title": "{state} Salary & Paycheck Calculator 2026 | Free",
+    "descriptionWithIncomeTax": "Free {state} salary and paycheck calculator for 2026. Enter hourly pay or a yearly salary to see take-home pay after federal, FICA and state tax.",
+    "descriptionNoIncomeTax": "Free {state} salary and paycheck calculator for 2026. Enter hourly pay or a yearly salary to see take-home pay ({state} has no state income tax).",
+    "h1": "{state} Paycheck & Salary Calculator"
   }
 }
