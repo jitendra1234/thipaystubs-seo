@@ -3,7 +3,7 @@ title: "How to Calculate Net Pay From Gross Pay (With a Worked Example)"
 description: "Gross pay minus taxes and deductions equals net pay. See each step, from FICA to federal and state withholding, with a real biweekly paycheck example."
 date: 2026-10-28
 author: ThiPaystubs Team
-draft: true
+draft: false
 ---
 Gross pay is what an employee earns before anything is taken out. Net pay, often called take-home pay, is what actually lands in their bank account. The difference is taxes and deductions, and getting it right every payday is the core of running payroll.
 

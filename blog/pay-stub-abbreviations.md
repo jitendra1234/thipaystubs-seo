@@ -3,7 +3,7 @@ title: "Pay Stub Abbreviations: How to Read a Pay Stub (Complete List)"
 description: "FIT, OASDI, SDI, YTD and more. A plain-English guide to the abbreviations on a pay stub, so employers and employees can read every line with confidence."
 date: 2026-10-28
 author: ThiPaystubs Team
-draft: true
+draft: false
 ---
 Pay stubs are packed with short codes. Payroll systems use them to fit everything on one page, but they can make a simple paycheck hard to read. This guide explains the abbreviations you are most likely to see and where they appear on the stub.
 

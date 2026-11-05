@@ -3,7 +3,7 @@ title: "What Should Be on a Pay Stub? Required Information for Employers"
 description: "The items every pay stub should include, what states like California and New York require, and common mistakes employers make with wage statements."
 date: 2026-10-28
 author: ThiPaystubs Team
-draft: true
+draft: false
 ---
 There is no single federal law that requires employers to give employees a pay stub. The Fair Labor Standards Act requires you to keep accurate payroll records, but whether you must hand employees a written statement each payday is decided by each state. Most states do require one, and some list exactly what it must show.
 
