@@ -555,6 +555,141 @@
           }
         ]
       }
+    },
+    "g1099": {
+      "url": "/1099-g-form",
+      "title": "1099-G Form Generator | Free 1099-G Online 2026",
+      "description": "Create Form 1099-G for unemployment compensation and state tax refunds online, free. Enter payer and recipient details, preview it live and download a PDF.",
+      "h1": "Free 1099-G form generator",
+      "content": {
+        "heading": "Create a 1099-G form online",
+        "paragraphs": [
+          "Form 1099-G reports certain government payments, most often unemployment compensation and state or local income tax refunds. Our free 1099-G form generator covers every box, from unemployment benefits and taxable grants to federal and state tax withheld, and updates the form as you type.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Form 1099-G used for?",
+            "answer": "Government agencies use Form 1099-G to report payments such as unemployment compensation, state or local income tax refunds, credits or offsets, taxable grants and agriculture payments."
+          },
+          {
+            "question": "When is Form 1099-G due?",
+            "answer": "Copy B generally goes to the recipient by January 31. The IRS copy is generally due by February 28 on paper, or March 31 if filed electronically."
+          },
+          {
+            "question": "Is the 1099-G generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1099-G PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "c1099": {
+      "url": "/1099-c-form",
+      "title": "1099-C Form Generator | Free Cancellation of Debt Form",
+      "description": "Create Form 1099-C for cancelled debt online, free. Enter the creditor, debtor, amount discharged and event code, preview the form live and download a PDF.",
+      "h1": "Free 1099-C form generator",
+      "content": {
+        "heading": "Create a 1099-C cancellation of debt form online",
+        "paragraphs": [
+          "Form 1099-C reports a debt that a creditor has cancelled or forgiven. Enter the creditor and debtor, the date of the identifiable event, the amount of debt discharged, any interest included, and the identifiable event code, and our free 1099-C generator lays out every box.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who files Form 1099-C?",
+            "answer": "Banks, lenders and other creditors generally file Form 1099-C when they cancel $600 or more of a debt owed by a person."
+          },
+          {
+            "question": "Is cancelled debt taxable?",
+            "answer": "Cancelled debt is often taxable income, but exclusions can apply, for example in bankruptcy or insolvency. The debtor may need Form 982 to claim an exclusion; check with a tax professional."
+          },
+          {
+            "question": "Is the 1099-C generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1099-C PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "oid1099": {
+      "url": "/1099-oid-form",
+      "title": "1099-OID Form Generator | Free 1099-OID Online 2026",
+      "description": "Create Form 1099-OID for original issue discount online, free. Enter the OID, interest, withholding and bond details, preview it live and download a PDF.",
+      "h1": "Free 1099-OID form generator",
+      "content": {
+        "heading": "Create a 1099-OID form online",
+        "paragraphs": [
+          "Form 1099-OID reports original issue discount: the difference between a bond or note's stated redemption price and its lower issue price, which is treated as interest over the life of the debt. Our free 1099-OID generator covers OID, other periodic interest, Treasury OID, bond premium, tax-exempt OID and state withholding.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is original issue discount (OID)?",
+            "answer": "OID is a form of interest. It is the amount by which a debt instrument's stated redemption price at maturity exceeds its issue price, and it is generally included in income a little each year."
+          },
+          {
+            "question": "When is Form 1099-OID due?",
+            "answer": "Copy B generally goes to the recipient by January 31. The IRS copy is generally due by February 28 on paper, or March 31 if filed electronically."
+          },
+          {
+            "question": "Is the 1099-OID generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1099-OID PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "f1098": {
+      "url": "/1098-form",
+      "title": "Form 1098 Generator | Free Mortgage Interest Statement",
+      "description": "Create Form 1098, the mortgage interest statement, online for free. Enter lender, borrower, interest, principal and points, preview it live and download a PDF.",
+      "h1": "Free Form 1098 generator",
+      "content": {
+        "heading": "Create a Form 1098 mortgage interest statement online",
+        "paragraphs": [
+          "Form 1098 reports the mortgage interest a lender received from a borrower during the year, along with the outstanding principal, points, mortgage insurance premiums and the property securing the loan. Our free Form 1098 generator lays out every box and updates the preview as you type.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who files Form 1098?",
+            "answer": "Lenders and others who receive $600 or more of mortgage interest from an individual in the course of a trade or business generally file Form 1098 and send a copy to the borrower."
+          },
+          {
+            "question": "What is Form 1098 used for?",
+            "answer": "Borrowers use the amounts on Form 1098 when they itemize deductions and claim the mortgage interest deduction on Schedule A."
+          },
+          {
+            "question": "Is the Form 1098 generator free?",
+            "answer": "Yes. You can fill in, preview and download the Form 1098 PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "t1098": {
+      "url": "/1098-t-form",
+      "title": "1098-T Form Generator | Free Tuition Statement Online",
+      "description": "Create Form 1098-T, the tuition statement, online for free. Enter school and student details, tuition paid and scholarships, preview it live and download a PDF.",
+      "h1": "Free 1098-T form generator",
+      "content": {
+        "heading": "Create a 1098-T tuition statement online",
+        "paragraphs": [
+          "Form 1098-T reports the qualified tuition and related expenses a college or other eligible educational institution received for a student, along with scholarships, grants and prior-year adjustments. Our free 1098-T generator covers every box, including the half-time and graduate student checkboxes.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents for your records and planning. File official forms with the IRS using the official versions or an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Form 1098-T used for?",
+            "answer": "Students and parents use Form 1098-T to help work out education tax benefits such as the American Opportunity Tax Credit and the Lifetime Learning Credit."
+          },
+          {
+            "question": "Who sends Form 1098-T?",
+            "answer": "Eligible educational institutions, such as colleges and universities, generally send Form 1098-T to enrolled students by January 31."
+          },
+          {
+            "question": "Is the 1098-T generator free?",
+            "answer": "Yes. You can fill in, preview and download the 1098-T PDF for free, with no account needed."
+          }
+        ]
+      }
     }
   },
   "statePages": {
