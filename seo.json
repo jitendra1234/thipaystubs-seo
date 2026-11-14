@@ -690,6 +690,60 @@
           }
         ]
       }
+    },
+    "f4868": {
+      "url": "/4868-form",
+      "title": "Form 4868 Generator | Free Tax Extension Form 2026",
+      "description": "Fill in Form 4868, the IRS tax extension request, online for free. Your balance due is worked out as you type. Preview it live and download a PDF.",
+      "h1": "Free Form 4868 (tax extension) generator",
+      "content": {
+        "heading": "Fill in Form 4868 online",
+        "paragraphs": [
+          "Form 4868 is the Application for Automatic Extension of Time To File U.S. Individual Income Tax Return. It gives most taxpayers six more months to file, usually until October 15. Enter your details, your estimated tax for the year and the payments you have made, and our free Form 4868 generator works out the balance due.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Does Form 4868 give me more time to pay?",
+            "answer": "No. Form 4868 extends the time to file, not the time to pay. Any tax you owe is still due by the regular April deadline, and interest and penalties can apply to unpaid tax."
+          },
+          {
+            "question": "When is Form 4868 due?",
+            "answer": "File Form 4868 by the regular due date of your return, usually April 15. Most extensions move the filing deadline to October 15."
+          },
+          {
+            "question": "Is the Form 4868 generator free?",
+            "answer": "Yes. You can fill in, preview and download the Form 4868 PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "schc": {
+      "url": "/schedule-c-form",
+      "title": "Schedule C Generator | Free Profit or Loss Form 2026",
+      "description": "Fill in Schedule C (Form 1040) online for free. Enter business income and expenses and see your net profit or loss worked out live. Download a PDF.",
+      "h1": "Free Schedule C (Form 1040) generator",
+      "content": {
+        "heading": "Fill in Schedule C online",
+        "paragraphs": [
+          "Schedule C (Form 1040), Profit or Loss From Business, is where sole proprietors and single-member LLC owners report business income and expenses. Enter your gross receipts, cost of goods sold and expenses such as advertising, supplies, travel and home office, and our free Schedule C generator works out gross profit, total expenses and your net profit or loss.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who needs to file Schedule C?",
+            "answer": "Sole proprietors, independent contractors, freelancers and single-member LLC owners who did not elect corporate treatment generally report business income and expenses on Schedule C with their Form 1040."
+          },
+          {
+            "question": "Do I also need Schedule SE?",
+            "answer": "Usually yes. If your net earnings from self-employment are $400 or more, you generally also file Schedule SE to calculate self-employment tax for Social Security and Medicare."
+          },
+          {
+            "question": "Is the Schedule C generator free?",
+            "answer": "Yes. You can fill in, preview and download the Schedule C PDF for free, with no account needed."
+          }
+        ]
+      }
     }
   },
   "statePages": {
