@@ -744,6 +744,87 @@
           }
         ]
       }
+    },
+    "es1040": {
+      "url": "/1040-es-form",
+      "title": "1040-ES Form Generator | Free Estimated Tax Voucher 2026",
+      "description": "Fill in a Form 1040-ES estimated tax payment voucher online for free. Choose the quarter, enter your payment and details, and download a PDF.",
+      "h1": "Free Form 1040-ES (estimated tax) voucher generator",
+      "content": {
+        "heading": "Fill in a Form 1040-ES payment voucher online",
+        "paragraphs": [
+          "Form 1040-ES is used to pay estimated tax on income that has no withholding, such as self-employment, interest, dividends, rent or alimony. Choose the voucher for the quarter, enter the amount you are paying and your details, and our free 1040-ES generator lays out the payment voucher.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who needs to pay estimated tax?",
+            "answer": "Generally, you need to make estimated tax payments if you expect to owe $1,000 or more in tax for the year after subtracting withholding and refundable credits, for example as a freelancer or small business owner."
+          },
+          {
+            "question": "When are 1040-ES payments due?",
+            "answer": "Estimated tax is usually paid in four installments: April 15, June 15 and September 15 of the tax year, and January 15 of the following year. If a date falls on a weekend or holiday, it moves to the next business day."
+          },
+          {
+            "question": "Is the Form 1040-ES generator free?",
+            "answer": "Yes. You can fill in, preview and download the Form 1040-ES PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "sch1": {
+      "url": "/schedule-1-form",
+      "title": "Schedule 1 Generator | Free Form 1040 Schedule 1 2026",
+      "description": "Fill in Schedule 1 (Form 1040) online for free: additional income and adjustments to income, with lines 10 and 26 worked out for you. Download a PDF.",
+      "h1": "Free Schedule 1 (Form 1040) generator",
+      "content": {
+        "heading": "Fill in Schedule 1 online",
+        "paragraphs": [
+          "Schedule 1 (Form 1040) reports income that does not go directly on Form 1040, such as business income from Schedule C, rental income, unemployment compensation and state tax refunds, and adjustments such as the deductible part of self-employment tax, HSA contributions and student loan interest. Our free Schedule 1 generator adds up line 10 and line 26 for you.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "What is Schedule 1 used for?",
+            "answer": "Schedule 1 lists additional income (Part I) and adjustments to income (Part II). Line 10 carries to Form 1040 line 8, and line 26 carries to Form 1040 line 10."
+          },
+          {
+            "question": "Do self-employed people need Schedule 1?",
+            "answer": "Usually yes. Business profit from Schedule C goes on Schedule 1 line 3, and the deductible part of self-employment tax goes on line 15."
+          },
+          {
+            "question": "Is the Schedule 1 generator free?",
+            "answer": "Yes. You can fill in, preview and download the Schedule 1 PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "sche": {
+      "url": "/schedule-e-form",
+      "title": "Schedule E Generator | Free Rental Income Form 2026",
+      "description": "Fill in Schedule E (Form 1040) for a rental property online for free. Enter rents and expenses and see your rental income or loss worked out. Download a PDF.",
+      "h1": "Free Schedule E (rental income) generator",
+      "content": {
+        "heading": "Fill in Schedule E for a rental property online",
+        "paragraphs": [
+          "Schedule E (Form 1040), Supplemental Income and Loss, is where landlords report income and expenses from rental real estate and royalties. Enter the property, rents received and expenses such as mortgage interest, repairs, insurance, taxes and depreciation, and our free Schedule E generator works out total expenses and your income or loss.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who files Schedule E?",
+            "answer": "Individuals who receive rental income from real estate, royalties, or income from partnerships, S corporations, estates and trusts report it on Schedule E. Our generator covers Part I for one rental property."
+          },
+          {
+            "question": "Where does the Schedule E result go?",
+            "answer": "Your total rental real estate and royalty income or loss carries to Schedule 1 (Form 1040), line 5. Passive activity loss limits may apply to rental losses."
+          },
+          {
+            "question": "Is the Schedule E generator free?",
+            "answer": "Yes. You can fill in, preview and download the Schedule E PDF for free, with no account needed."
+          }
+        ]
+      }
     }
   },
   "statePages": {
