@@ -825,6 +825,60 @@
           }
         ]
       }
+    },
+    "schf": {
+      "url": "/schedule-f-form",
+      "title": "Schedule F Generator | Free Farm Profit or Loss Form 2026",
+      "description": "Fill in Schedule F (Form 1040) online for free. Enter farm income and expenses and see your net farm profit or loss worked out live. Download a PDF.",
+      "h1": "Free Schedule F (farm income) generator",
+      "content": {
+        "heading": "Fill in Schedule F online",
+        "paragraphs": [
+          "Schedule F (Form 1040), Profit or Loss From Farming, is where farmers and ranchers report farm income and expenses. Enter sales of livestock and crops, program payments and crop insurance, and expenses such as feed, seed, fertilizer, fuel, labor and depreciation, and our free Schedule F generator works out gross income, total expenses and your net farm profit or loss.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Who files Schedule F?",
+            "answer": "Individuals who operate a farm or ranch for profit, including sole proprietors and single-member LLCs, generally report farm income and expenses on Schedule F with Form 1040."
+          },
+          {
+            "question": "Where does the Schedule F result go?",
+            "answer": "Net farm profit or loss from line 34 carries to Schedule 1 (Form 1040), line 6. A profit is also generally subject to self-employment tax on Schedule SE."
+          },
+          {
+            "question": "Is the Schedule F generator free?",
+            "answer": "Yes. You can fill in, preview and download the Schedule F PDF for free, with no account needed."
+          }
+        ]
+      }
+    },
+    "ss4": {
+      "url": "/ss-4-form",
+      "title": "Form SS-4 Generator | Free EIN Application Form 2026",
+      "description": "Fill in Form SS-4, the IRS application for an Employer Identification Number (EIN), online for free. Preview every line live and download a PDF.",
+      "h1": "Free Form SS-4 (EIN application) generator",
+      "content": {
+        "heading": "Fill in Form SS-4 online",
+        "paragraphs": [
+          "Form SS-4 is the application for an Employer Identification Number (EIN), the federal tax ID for businesses, partnerships, corporations, trusts, estates and other entities. Our free SS-4 generator walks through every line, from the legal name and responsible party to the entity type, reason for applying and expected employees, so you can prepare your answers before you apply.",
+          "This form is free: preview it and download the PDF at no cost. Tax forms from Thi Pay Stubs are sample documents to help you prepare and check your numbers. File the official IRS form yourself or through an authorized e-file provider."
+        ],
+        "faqs": [
+          {
+            "question": "Does it cost money to get an EIN?",
+            "answer": "No. The IRS issues EINs for free. Most applicants can apply online at IRS.gov and get the number right away; Form SS-4 can also be faxed or mailed."
+          },
+          {
+            "question": "Who needs an EIN?",
+            "answer": "Businesses that have employees, operate as a corporation or partnership, file employment, excise or certain other tax returns, or open business bank accounts generally need an EIN. Many single-member LLCs and sole proprietors get one as well."
+          },
+          {
+            "question": "Is the Form SS-4 generator free?",
+            "answer": "Yes. You can fill in, preview and download the Form SS-4 PDF for free, with no account needed."
+          }
+        ]
+      }
     }
   },
   "statePages": {
